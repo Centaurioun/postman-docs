@@ -13,7 +13,7 @@
     "babel-plugin-styled-components": "2.0.7",
     "base-64": "1.0.0",
     "bootstrap": "4.5.0",
-    "dotenv": "8.6.0",
+    "dotenv": "16.0.3",
     "eslint-plugin-jest": "22.21.0",
     "gatsby": "4.13.0",
     "gatsby-cli": "4.13.0",
